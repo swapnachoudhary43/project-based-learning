@@ -526,6 +526,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+- [Build a Simple Calculator in Python (YouTube)](https://www.youtube.com/watch?v=jyZQBYbWyg0)
 
 ## Go:
 
